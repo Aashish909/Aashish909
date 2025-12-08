@@ -1,6 +1,6 @@
 # 👋🏼 Hello World! I'm Aashish Kumar — a Full Stack Developer
 
-- 🛜 Currently building [ReShop E-Commerce]([https://pern-ai-eccomerce-webapp.netlify.app]) and other scalable web applications  
+- 🛜 Currently building [ReShop E-Commerce](https://pern-ai-eccomerce-webapp.netlify.app) and other scalable web applications  
 - 👨🏼‍🎓 Studied Computer Science and Engineering  
 - 👨🏼‍💻 Working as a Full Stack Developer since 2022  
 - 💻 Proficient in MERN Stack, Next.js, Prisma, Convex, and more  

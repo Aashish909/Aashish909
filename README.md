@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2200&pause=900&color=00EFFF&center=true&vCenter=true&width=700&repeat=false&lines=A+A+S+H+I+S+H+%5B+9+0+9+%5D" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2200&pause=900&color=00EFFF&center=true&vCenter=true&width=700&repeat=false&lines=A+A+S+H+I+S+H+K+U+M+A+R" 
     alt="Typing Animation" 
   />
 </h1>

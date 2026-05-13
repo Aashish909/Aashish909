@@ -234,8 +234,8 @@ width="100%"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aashish909&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00EFFF&icon_color=61DAFB&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashish909&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00EFFF&text_color=FFFFFF" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=aashish733&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00EFFF&icon_color=61DAFB&text_color=FFFFFF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashish733&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00EFFF&text_color=FFFFFF" width="40%" />
 
 </div>
 
@@ -261,6 +261,6 @@ width="100%"
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=aashish909&color=00EFFF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=aashish733&color=00EFFF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>

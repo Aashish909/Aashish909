@@ -13,9 +13,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aashish909)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aashish909)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aashish909.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Aashish733)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aashish733)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Aashish733.github.io)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aashish.kumar.ak2000@gmail.com)
 
 </div>
@@ -103,7 +103,7 @@ const aashish = {
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-<a href="https://github.com/aashish909">
+<a href="https://github.com/Aashish733">
 <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -132,7 +132,7 @@ const aashish = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![AI APIs](https://img.shields.io/badge/AI_APIs-FF4F00?style=flat-square&logo=openai&logoColor=white)
 
-<a href="https://github.com/aashish909">
+<a href="https://github.com/Aashish733">
 <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -165,7 +165,7 @@ const aashish = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 
-<a href="https://github.com/aashish909">
+<a href="https://github.com/Aashish733">
 <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -224,7 +224,7 @@ const aashish = {
 <div align="center">
 
 <img 
-src="https://github-readme-activity-graph.vercel.app/graph?username=aashish909&theme=high-contrast&hide_border=false&bg_color=0D1117&color=A277FF&line=61DAFB&point=00D9FF&area=true&area_color=A277FF" 
+src="https://github-readme-activity-graph.vercel.app/graph?username=Aashish733&theme=high-contrast&hide_border=false&bg_color=0D1117&color=A277FF&line=61DAFB&point=00D9FF&area=true&area_color=A277FF" 
 width="100%" 
 />
 
@@ -234,8 +234,8 @@ width="100%"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aashish733&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00EFFF&icon_color=61DAFB&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashish733&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00EFFF&text_color=FFFFFF" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aashish733&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00EFFF&icon_color=61DAFB&text_color=FFFFFF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashish733&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00EFFF&text_color=FFFFFF" width="40%" />
 
 </div>
 
@@ -261,6 +261,6 @@ width="100%"
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=aashish733&color=00EFFF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Aashish733&color=00EFFF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
